@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import ResultsModal from './ResultsModal'
 import LoadingModal from './LoadingModal'
 import './App.css';
@@ -62,7 +62,7 @@ function App(props){
 
         <div>
           { uploads.map((value, index) => {
-            return <img key={index} src={value} width="150px" style={{margin: "20px auto", display: "flex"}}/>
+            return <img alt={"uploaded"+index} src={value} width="150px" style={{margin: "20px auto", display: "flex"}}/>
           }) }
         </div>
 

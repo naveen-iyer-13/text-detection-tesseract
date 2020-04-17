@@ -9,7 +9,7 @@ const ResultsModal = (props) => (
           props.data && props.data.map((single, index) => {
             return (
               <div className="single" key={index}>
-                <div class="picture"><img className="image" src={single.img} /></div>
+                <div class="picture"><img alt={"single"+index} className="image" src={single.img} /></div>
                 <div className="text">{single.text.split('\n').map ((item, i) => <div key={i}>{item}</div>)}</div>
               </div>
             );
