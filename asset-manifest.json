@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/text-detection-tesseract/static/css/main.79b476d2.chunk.css",
+    "main.js": "/text-detection-tesseract/static/js/main.71e15a0d.chunk.js",
+    "main.js.map": "/text-detection-tesseract/static/js/main.71e15a0d.chunk.js.map",
+    "runtime-main.js": "/text-detection-tesseract/static/js/runtime-main.96168cbb.js",
+    "runtime-main.js.map": "/text-detection-tesseract/static/js/runtime-main.96168cbb.js.map",
+    "static/js/2.a04175c7.chunk.js": "/text-detection-tesseract/static/js/2.a04175c7.chunk.js",
+    "static/js/2.a04175c7.chunk.js.map": "/text-detection-tesseract/static/js/2.a04175c7.chunk.js.map",
+    "index.html": "/text-detection-tesseract/index.html",
+    "precache-manifest.d6009cf747c58977f5186d33b34e535f.js": "/text-detection-tesseract/precache-manifest.d6009cf747c58977f5186d33b34e535f.js",
+    "service-worker.js": "/text-detection-tesseract/service-worker.js",
+    "static/css/main.79b476d2.chunk.css.map": "/text-detection-tesseract/static/css/main.79b476d2.chunk.css.map",
+    "static/js/2.a04175c7.chunk.js.LICENSE.txt": "/text-detection-tesseract/static/js/2.a04175c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96168cbb.js",
+    "static/js/2.a04175c7.chunk.js",
+    "static/css/main.79b476d2.chunk.css",
+    "static/js/main.71e15a0d.chunk.js"
+  ]
+}
