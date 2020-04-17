@@ -32,8 +32,6 @@ function App(props){
         let newObj = {img: uploads[0], text: text}
         setRecentImageData([newObj])
         setUploads([])
-        console.log(newObj);
-        console.log(text)
         var tempArray = [...existingList, newObj]
         setExistingList(tempArray)
       })
